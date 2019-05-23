@@ -587,6 +587,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 435F03AB2174A39200A86B2D /* Module-Debug.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -594,6 +595,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 435F03AA2174A39200A86B2D /* Module-Release.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
